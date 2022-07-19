@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithmsApp", "SortingAlgorithmsApp\SortingAlgorithmsApp.csproj", "{800468C7-31B0-4D55-BF54-CDFB18DC4482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingAlgorithmsApp", "SortingAlgorithmsApp\SortingAlgorithmsApp.csproj", "{800468C7-31B0-4D55-BF54-CDFB18DC4482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithmsTests", "SortingAlgorithmsTests\SortingAlgorithmsTests.csproj", "{503592EF-81C2-4D97-9CFF-FC44336F7FA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{800468C7-31B0-4D55-BF54-CDFB18DC4482}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{800468C7-31B0-4D55-BF54-CDFB18DC4482}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{800468C7-31B0-4D55-BF54-CDFB18DC4482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503592EF-81C2-4D97-9CFF-FC44336F7FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503592EF-81C2-4D97-9CFF-FC44336F7FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503592EF-81C2-4D97-9CFF-FC44336F7FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503592EF-81C2-4D97-9CFF-FC44336F7FA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
